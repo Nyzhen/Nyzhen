@@ -29,9 +29,9 @@
 
 <hr style="margin: 20px 0px">
 
-<!--  [![wakatime](https://wakatime.com/badge/user/a0cd9443-0994-43c6-8a10-373d904a3a9f.svg)](https://wakatime.com/@a0cd9443-0994-43c6-8a10-373d904a3a9f)
+[![wakatime](https://wakatime.com/badge/user/018e81e4-3ed9-4f4d-8384-d0af85f4683a.svg)](https://wakatime.com/@a0cd9443-0994-43c6-8a10-373d904a3a9f)
 [ ![](https://komarev.com/ghpvc/?username=Nyzhen&style=flat)](https://github.com/Nyzhen)
--->
+
  ### Languages and Tools:
 
 <p>
@@ -85,7 +85,6 @@
 <a href="https://github.com/Nyzhen"><img src="https://github-readme-stats.vercel.app/api?username=Nyzhen&show_icons=true&theme=vision-friendly-dark"/>
 
 
-<!--
 #
 ![Nyzhen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nyzhen&theme=vision-friendly-dark)
 
