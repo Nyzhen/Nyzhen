@@ -7,7 +7,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/muhammet-%C3%B6zt%C3%BCrk-85939a241/?locale=en_US)
 [![twitter](https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=twitter&logoColor=0080ff)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=pruple)](#)
-[![youtube](https://img.shields.io/badge/youtube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@Nyzhen)
+[![youtube](https://img.shields.io/badge/youtube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)]([https://www.youtube.com/@Nyzhen](https://www.youtube.com/channel/UCkxI63zf7ahhKZMK-XJfBSA))
 [![dıscord](https://img.shields.io/badge/Nyzhen-000?style=for-the-badge&logo=discord&logoColor=fff)](#)
 [![upwork](https://img.shields.io/badge/upwork-000?style=for-the-badge&logo=upwork&logoColor=darkgreen)](#)
 [![fiverr](https://img.shields.io/badge/fiverr-000?style=for-the-badge&logo=fiverr&logoColor=green)](#)
